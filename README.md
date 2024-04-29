@@ -1,3 +1,6 @@
+<img width="959" alt="image" src="https://github.com/dharung07/Guess-the-number/assets/161942097/5f9ffdba-e47c-4c09-981a-0e0f585031c8">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
